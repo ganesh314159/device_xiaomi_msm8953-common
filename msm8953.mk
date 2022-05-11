@@ -407,4 +407,4 @@ PRODUCT_PACKAGES += \
 GoogleCameraGo
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/xiaomi/msm8953-common/msm8953-common-vendor.mk)
+$(call inherit-product, vendor/xiaomi/ysl/msm8953-common/msm8953-common-vendor.mk)
